@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.card {
+    font-family: 'Quicksand', sans-serif;
+}
+.card body{
+    background-color: #666666;
+}
+.card img {
+    height:350px;
+}
+.row .col-sm-4  {
+    padding: 0px;
+}
+
+footer {
+    background-color:#404040;
+    line-height: 80%;
+    font-family: 'Quicksand', sans-serif;
+}
+.navbar {
+    font-family: 'Quicksand', sans-serif;
+}
+.jumbotron{
+    font-family: 'Quicksand', sans-serif;
+}
+.card-body{
+    background-color: #d9d9d9;
+}
+.btn {
+    color:#ffcc00;
+}
+.jumbotron .container-fluid{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.text {
+    height: 70px;
+}
+.text h1{
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+}
+footer li{
+    color:white;
+    text-decoration: none;
+    list-style:none;
+    padding: 8px;
+}
+.content {
+    display:flex;
+    justify-content: space-between;
+    padding-top:20px;
+    padding-right:550px;
+}
+.content svg {
+    margin:10px;
+}
+.tender h1 {
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+}
+.tender .container-fluid{
+    display:flex;
+    justify-content: center;
+}
+form .col{
+    width: 700px;
+}
+.tender {
+    margin:20px;
+}
+.col label{
+    margin:8px;
+}
+.datepicker form{
+    width: 300px;
+}
+.tender-button{
+    width:35%;
+    margin:auto;
+}
+.tender-button .btn{
+    width:250px;
+    margin:10px;
+}
+.gallery h1{
+    text-align:center;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.datepicker label{
+    margin:22px;
+}
+.datepicker {
+    margin:10px;
+}
+.error {
+    color: red;
+}
+.message {
+    height:30px;
+    width:auto;
+    text-align: center;
+}
